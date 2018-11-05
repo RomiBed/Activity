@@ -1,2 +1,4 @@
 
-Bonjour, je suis fichier 2 
+Bonjour, je suis fichier 2
+
+Deuxième ligne du 2ème fichier
